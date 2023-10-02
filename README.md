@@ -3,8 +3,8 @@
   ## Hello, my name is Vinicius Nishimura, and I am a WEB and Mobile Developer!
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Nina" height="150" width="200"
-    src="https://th.bing.com/th/id/OIG.gRbz14JO9lBqHE9y0o40?pid=ImgGn">
+  <img align="center" alt="Samurai" height="150" width="200"
+    src="https://th.bing.com/th/id/OIG.cIVHShoyjA9HbB41HLmz?pid=ImgGn">
 <div>
   <a href="https://beacons.ai/vinishireis">
 </div>
