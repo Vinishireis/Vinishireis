@@ -1,56 +1,117 @@
-### 🛹💻
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Vin%C3%ADcius%20Nishimura%20Reis&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=18" alt="Cabeçalho de Vinícius Nishimura Reis" />
 
-  ## Hello, my name is Vinicius Nishimura, and I am a WEB and Mobile Developer!
-
-    
-   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinishireis&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vinishireis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinishireis&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <p>
+    <a href="https://www.linkedin.com/in/vinicius-nishimura-reis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/Vinishireis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://portfolioreact-alpha-two.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+    <a href="mailto:nishimuravinicius28@gmail.com"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  </p>
 </div>
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vini-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Vini-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/vinishireis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/vinishireis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/tVkDkud6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-nishimura-reis-394a02212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Olá! Eu sou o Vinícius 👋
 
+Sou estudante de **Ciência da Computação na FECAP**, desenvolvedor **Full Stack** e **coordenador do NúcleoTech FECAP**, o núcleo de tecnologia da instituição. Crio experiências digitais úteis, acessíveis e bem construídas para web e dispositivos móveis. Atualmente, atuo como **estagiário de Tecnologia da Informação no Audit Delivery Center da Deloitte**, contribuindo com soluções digitais, automação de processos, análise de dados e suporte a fluxos de auditoria.
 
-- 🔭 I’m currently working on  Developing Aplication "My pessoal projects"
-- 🌱 I’m currently learning  "JavaScript"...
-- 📫 How to reach me:  <a href="https://www.instagram.com/vinishireis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> ...
-- ⚡ Fun fact: There can't be no music left so I can code ...
+Transformo problemas reais em produtos: da descoberta e experiência do usuário à interface, integração com serviços e dados. Gosto especialmente de projetos que unem produto, design e engenharia — com React, React Native, Node.js, TypeScript e Supabase. Minha trajetória reúne liderança estudantil, hackathons, programação competitiva e desenvolvimento de sistemas.
 
-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinishireis&bg_color=0d0d0d&color=1ac8cb&line=22939b&point=1b8fb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Em destaque
 
+- 🏆 **1º lugar — Semana de Inovação FECAP 2026:** integrante da equipe do **FECAP Ágora**, plataforma que centraliza oportunidades acadêmicas e profissionais, com recomendação por compatibilidade e recursos de networking baseados em teoria dos grafos. O projeto foi selecionado para incubação de um ano pela FECAP.
+- 🥇 **1º lugar — Hackathon Ibracon Nacional 2025:** desenvolvimento do **Zeus Lightning**, ecossistema de IA para tratamento de relatórios de sustentabilidade conforme padrões IFRS.
+- 🥈 **2º lugar — Hackathon Ibracon Nacional 2026:** desenvolvimento do **Chronos Audit**, solução com IA para apoiar análises documentais, identificar inconsistências e aumentar a rastreabilidade de relatórios de auditoria.
+- 🥉 **3º lugar — Maratona de Inverno do CSBC 2026:** representando a FECAP em programação competitiva, em equipe com Mauricio Suster.
+- 🧑‍💼 **Coordenador do NúcleoTech FECAP:** atuação na liderança do núcleo de tecnologia, promovendo projetos, colaboração e inovação na comunidade acadêmica.
 
+## Produtos em desenvolvimento
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vinishireis}/count.svg" /></p> 
-<br>
+  <a href="https://www.gamefy.education/">
+    <img width="31%" src="https://www.gamefy.education/og-image.png" alt="GameFY — plataforma acadêmica gamificada" />
+  </a>
+  <a href="https://trocaticket.com.br/">
+    <img width="31%" src="https://trocaticket.com.br/og-image.png" alt="TrocaTicket — plataforma de eventos e ingressos" />
+  </a>
+  <a href="https://www.nexoxapp.com.br/">
+    <img width="31%" src="https://nexoxapp.com.br/og-image.png" alt="Nexo Finance — aplicativo de organização financeira" />
+  </a>
 </div>
 
+## Projetos selecionados
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D7874&height=120&section=footer"/>
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [GameFY](https://www.gamefy.education/) | Meu principal projeto em desenvolvimento: plataforma gamificada para instituições de ensino, empresas e eventos, com gestão de projetos integradores, acompanhamento de desempenho, rankings e check-in por QR Code. | Plataforma web, gamificação, dados, eventos |
+| [TrocaTicket](https://trocaticket.com.br/) | Plataforma de eventos e ingressos que reúne descoberta, compra, revenda segura, acesso digital e gestão para organizadores em um só ecossistema. | Marketplace, eventos, tickets digitais, gestão de eventos |
+| [Nexo Finance](https://www.nexoxapp.com.br/) | Aplicativo de finanças pessoais que centraliza contas, cartões, metas e orçamento, com Open Finance, Nexo IA e planejamento compartilhado. | React Native, Expo Go, Open Finance, IA |
+| [FECAP Ágora](https://www.linkedin.com/in/vinicius-nishimura-reis/) | Plataforma vencedora da Semana de Inovação FECAP 2026 para conectar estudantes a vagas, eventos e networking estratégico. | React Native, recomendação inteligente, teoria dos grafos |
+| [Zeus Lightning](https://www.fecap.br/2025/06/23/fecap-conquista-1o-lugar-no-hackathon-do-ibracon/) | Ecossistema de IA vencedor do Ibracon 2025 para tratamento inteligente de relatórios de sustentabilidade aderentes aos padrões IFRS. | IA, automação, ESG, auditoria |
+| [Chronos Audit](https://www.linkedin.com/in/vinicius-nishimura-reis/) | Plataforma com IA para apoiar a análise de documentos e processos de auditoria. | IA, automação, análise documental |
+| [Calculadora Comercial Khipo](https://github.com/Vinishireis/Projeto_Khipo) | Aplicação web e mobile para cálculos comerciais, autenticação e histórico de consultas. | React Native, Expo, Context API, AsyncStorage, Node.js |
+| [Projeto Interdisciplinar](https://github.com/Vinishireis/Projeto_Interdisciplinar) | Solução acadêmica multidisciplinar, com liderança de frontend e participação na integração, documentação e apresentação. | React, Vite, Tailwind CSS, .NET, MySQL, Recharts |
+| [Portfólio pessoal](https://github.com/Vinishireis/portfolio) | Site responsivo para apresentar projetos, experiência e competências com interface moderna e animações fluidas. | React, Vite, Tailwind CSS |
+| [OnDev](https://github.com/Vinishireis/OnDev_App_React_Project) | Aplicativo de demonstração de serviços de web design, desenvolvimento mobile e design gráfico. | React Native, Expo, Node.js |
+| [Dash Horizon](https://github.com/Vinishireis/Dash_Horizon) | Jogo endless runner 3D, desenvolvido em equipe na FECAP, com dificuldade progressiva, power-ups e placar. | Unity, C# |
 
+## Tecnologias e ferramentas
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cs,php,html,css,tailwind,flutter,supabase,mysql,dotnet,git,github,figma,unity&perline=10" alt="Tecnologias: JavaScript, TypeScript, React, Next.js, Node.js, Python, C#, PHP, HTML, CSS, Tailwind CSS, Flutter, Supabase, MySQL, .NET, Git, GitHub, Figma e Unity" />
+</div>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Desenvolvimento</h3>
+      <p>React, React Native, Next.js, JavaScript, TypeScript, Node.js, Python, C#, .NET, PHP, Flutter e Unity.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Produto e dados</h3>
+      <p>UI/UX, Figma, Supabase, MySQL, Context API, APIs, automação de processos, análise de dados e Git.</p>
+    </td>
+  </tr>
+</table>
+
+## Minha trajetória
+
+- **Deloitte · Audit Delivery Center** — Estagiário de Tecnologia da Informação *(nov. 2025 — atual)*
+  Apoio a soluções digitais voltadas a auditoria e gestão de dados, scripts e ferramentas internas, automação e colaboração com times multidisciplinares.
+- **NúcleoTech FECAP** — Coordenador
+  Liderança do núcleo de tecnologia da FECAP, com foco em comunidade, colaboração entre estudantes, projetos e iniciativas de inovação.
+- **FECAP** — Bacharelado em Ciência da Computação
+  Formação orientada à construção de soluções, programação competitiva, inovação e desenvolvimento de produtos em equipe.
+- **Etec Sebrae (Campos Elíseos)** — Tecnologia da Informação *(fev. 2022 — jun. 2023)*
+  Base em desenvolvimento web, JavaScript, PHP, bancos de dados, design, marketing digital e empreendedorismo.
+
+## O que estou construindo
+
+Atuo em aplicações **web e mobile escaláveis**, soluções de **automação e dados** e produtos que resolvem desafios concretos. Atualmente, desenvolvo o **GameFY**, o **TrocaTicket** e o **Nexo Finance**, enquanto sigo aprofundando conhecimentos em arquitetura de aplicações, banco de dados, IA aplicada e programação competitiva.
+
+## GitHub
+
+<div align="center">
+  <a href="https://github.com/Vinishireis">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinishireis&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=CBD5E1&bg_color=0F172A" alt="Estatísticas do GitHub de Vinícius Nishimura Reis" />
+  </a>
+  <a href="https://github.com/Vinishireis">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinishireis&layout=compact&hide_border=true&title_color=2563EB&text_color=CBD5E1&bg_color=0F172A" alt="Linguagens mais usadas por Vinícius Nishimura Reis" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinishireis&bg_color=0F172A&color=CBD5E1&line=2563EB&point=60A5FA&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinishireis/Vinishireis/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinishireis/Vinishireis/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vinishireis/Vinishireis/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+## Vamos conversar?
+
+Estou aberto a oportunidades, colaborações e conversas sobre desenvolvimento de software, produtos digitais, automação e tecnologia aplicada. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vinicius-nishimura-reis/), no [GitHub](https://github.com/Vinishireis) ou pelo [e-mail](mailto:nishimuravinicius28@gmail.com).
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" alt="Rodapé" />
+</div>
