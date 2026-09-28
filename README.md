@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Vin%C3%ADcius%20Nishimura%20Reis&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=18" alt="Cabeçalho de Vinícius Nishimura Reis" />
+  <h1>Vinícius Nishimura Reis</h1>
+  <p>Desenvolvedor Full Stack · Web &amp; Mobile</p>
 
   <p>
     <a href="https://www.linkedin.com/in/vinicius-nishimura-reis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -87,19 +88,38 @@ Transformo problemas reais em produtos: da descoberta e experiência do usuário
 
 Atuo em aplicações **web e mobile escaláveis**, soluções de **automação e dados** e produtos que resolvem desafios concretos. Atualmente, desenvolvo o **GameFY**, o **TrocaTicket** e o **Nexo Finance**, enquanto sigo aprofundando conhecimentos em arquitetura de aplicações, banco de dados, IA aplicada e programação competitiva.
 
+## WakaTime
+
+<div align="center">
+  <a href="https://wakatime.com/dashboard">
+    <img src="https://img.shields.io/badge/WakaTime-31h%2012m%20nos%20%C3%BAltimos%207%20dias-0F172A?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime: 31 horas e 12 minutos de desenvolvimento nos últimos 7 dias" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>31h 12m</strong><br />últimos 7 dias</td>
+    <td align="center" width="25%"><strong>4h 27m</strong><br />média diária</td>
+    <td align="center" width="25%"><strong>GameFY_Web</strong><br />15h 45m no período</td>
+    <td align="center" width="25%"><strong>JavaScript</strong><br />linguagem principal</td>
+  </tr>
+</table>
+
 ## GitHub
 
 <div align="center">
   <a href="https://github.com/Vinishireis">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinishireis&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=CBD5E1&bg_color=0F172A" alt="Estatísticas do GitHub de Vinícius Nishimura Reis" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinishireis&theme=github_dark" alt="Estatísticas do GitHub de Vinícius Nishimura Reis" />
   </a>
   <a href="https://github.com/Vinishireis">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinishireis&layout=compact&hide_border=true&title_color=2563EB&text_color=CBD5E1&bg_color=0F172A" alt="Linguagens mais usadas por Vinícius Nishimura Reis" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinishireis&theme=github_dark" alt="Repositórios por linguagem de Vinícius Nishimura Reis" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinishireis&bg_color=0F172A&color=CBD5E1&line=2563EB&point=60A5FA&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+  <a href="https://github.com/Vinishireis">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinishireis&theme=github_dark" alt="Resumo de contribuições no GitHub de Vinícius Nishimura Reis" />
+  </a>
 </div>
 
 <picture data-importer="pacman">
@@ -111,7 +131,3 @@ Atuo em aplicações **web e mobile escaláveis**, soluções de **automação e
 ## Vamos conversar?
 
 Estou aberto a oportunidades, colaborações e conversas sobre desenvolvimento de software, produtos digitais, automação e tecnologia aplicada. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vinicius-nishimura-reis/), no [GitHub](https://github.com/Vinishireis) ou pelo [e-mail](mailto:nishimuravinicius28@gmail.com).
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" alt="Rodapé" />
-</div>
