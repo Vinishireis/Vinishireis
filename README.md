@@ -122,11 +122,13 @@ Atuo em aplicações **web e mobile escaláveis**, soluções de **automação e
   </a>
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinishireis/Vinishireis/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinishireis/Vinishireis/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vinishireis/Vinishireis/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vinishireis/Vinishireis/raw/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vinishireis/Vinishireis/raw/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://github.com/Vinishireis/Vinishireis/raw/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ## Vamos conversar?
 
